@@ -66,8 +66,8 @@ body {
   .custom-img {
     height: auto; /* Removes the fixed height */
   }
-  body{
+  html, body {
     overflow-x: hidden;
-
   }
+
 }
